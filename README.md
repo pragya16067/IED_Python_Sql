@@ -1,6 +1,6 @@
-# tanya
+# Python linked with MySQL
 
-The included python codes, help our Raspberry Pi to communicate with the MySQL Database. 
+The included python codes help our Raspberry Pi to communicate with the MySQL Database. 
 
 The first file: Hostel.py updates the entry/exit time in the database of the detected card holder
 (through a RFID sensor attached to the Raspberry Pi)
